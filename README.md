@@ -18,3 +18,4 @@ The original research algorithm is available at the link: github.com/hrnr/m-expl
 ## Results
 
 Below are screenshots of the m-explore-2 research algorithm.
+![Screenshot](https://github.com/MikhailKapirusov/m-explore-2/blob/main/Explore-2.jpg)
