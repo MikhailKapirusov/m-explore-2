@@ -1,4 +1,4 @@
-# m-explore-2
+# m-explore-2 (Explorer_lite 2)
 Improved version of the standard m-explore package
 
 ## Background
